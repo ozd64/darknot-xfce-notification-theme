@@ -1,6 +1,6 @@
 #XfceNotifyWindow {
-    background: rgb(0,0,0);
-    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(49,49,49,1) 50%, rgba(59,59,59,1) 100%);
+    background: rgb(32,32,32);
+    background: linear-gradient(0deg, rgba(32,32,32,1) 0%, rgba(64,64,64,1) 60%, rgba(64,64,64,1) 100%);
     color: #FFFFFF;  
     border-radius: 10px;
     border: 1px solid #000000;
